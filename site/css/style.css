@@ -1,0 +1,80 @@
+body{
+    background-color: lightgrey;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+header{
+    font-size: larger;
+    background-color: grey;
+    padding: 20px 0;
+    height: 30px;
+}
+
+.logo{
+    width:50%;
+}
+
+.home{
+    width: 50%;
+    text-align: right;
+}
+
+.home a{
+    color: black;
+    text-decoration: none;
+    margin-right: 15px;
+}
+.background1{
+    width: 60%;
+	height: 100px;
+	background-color: #0f42c3;
+	background-size: 200px;
+    border: 2px solid rgb(5, 21, 146);
+    border-radius: 50px 20px;
+}
+.background2{
+    width: 700px;
+	height: 120px;
+	background-color: #0f42c3;
+	background-size: 200px;
+    border: 2px solid rgb(5, 21, 146);
+    border-radius: 50px 20px;
+}
+.background3{
+    width: 1000px;
+	height: 120px;
+	background-color: #0f42c3;
+	background-size: 200px;
+    border: 2px solid rgb(5, 21, 146);
+    border-radius: 50px 20px;
+}
+.background4{
+    width: 60%;
+	height: 100px;
+	background-color: #0f42c3;
+	background-size: 200px;
+    border: 2px solid rgb(5, 21, 146);
+    border-radius: 50px 20px;
+}
+
+.foto{
+float: right;
+  width: 300px;
+  border: 3px solid #190097;
+  padding: 10px;
+}
